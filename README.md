@@ -1,7 +1,6 @@
 # All-Fraudulent-Apps-From-the-Anonymous-Paper
-All fraudulent apps detected by out tool from the anonymous paper.
 
-Welcome to the GitHub repository for the Fraudulent App Dataset. This dataset includes information on mobile applications detected as fraudulent during our research.
+Welcome to the GitHub repository for the Fraudulent App Dataset. This dataset includes information on mobile applications detected as fraudulent by our tool during our research.
 
 ## Dataset Contents
 
