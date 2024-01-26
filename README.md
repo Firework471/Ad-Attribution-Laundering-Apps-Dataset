@@ -10,7 +10,5 @@ The dataset includes the following information:
 - **App Name**
 - **App VersionCode**
 
-Please note that we have taken measures to protect individual privacy, and the data has been anonymized.
-
 Thank you for your interest in our research!
 
