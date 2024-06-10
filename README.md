@@ -1,4 +1,4 @@
-# All-Fraudulent-Apps-From-the-CCS24-Paper
+# Ad Attribution Laundering Apps Dataset
 
 Welcome to the GitHub repository for the Fraudulent App Dataset from the CCS24 paper "Unveiling Collusion-Based Ad Attribution Laundering Fraud: Detection, Analysis, and Security Implications". This dataset includes information on mobile applications detected as fraudulent by our tool during our research.
 
